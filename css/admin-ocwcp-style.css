@@ -1,0 +1,67 @@
+.ocwcp-container ul.tabs{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.ocwcp-container ul.tabs li{
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 0;
+    background: #2271b1;
+    color: #fff;
+    margin-right: 10px;
+    border: 1px solid #2271b1;
+}
+.ocwcp-container ul.tabs li.current{
+    color: #2271b1;
+    background: #ffffff;
+}
+.ocwcp-container .tab-content{
+    display: none;
+    padding: 15px;
+    margin: 10px 0px;
+    border: 1px solid #2271b1;
+    background-color: #fff;
+}
+.ocwcp-container .tab-content.current{
+    display: inherit;
+}
+p.ocwcp-tips {
+    margin: 2px 0 5px !important;
+    color: #666;
+    font-size: 12px !important;
+    font-style: italic;
+}
+.ocwcp-linkchoice {
+    margin: 15px 0px;
+}
+.ocwcp-space {
+    height: 15px;
+}
+p.ocwcp-heading {
+    font-size: 20px !important;
+    font-weight: 600;
+    margin: 0;
+}
+.ocwcp-product-rang ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+.ocwcp-container {
+    margin-top: 20px;
+}
+.ocwcp-container .form-table th {
+    width: 15%;
+}
+img.ocwcp_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.ocwcp_pro_link {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 10px;
+}
